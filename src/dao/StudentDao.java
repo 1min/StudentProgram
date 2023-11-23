@@ -226,5 +226,6 @@ public class StudentDao {
 		}
 
 		System.out.println("데이터로드 성공!");
+		System.out.println("변경된 코드");
 	}
 }
